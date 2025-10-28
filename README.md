@@ -22,6 +22,7 @@ This project is an **OpenGL 3D demo** that renders 3D model
 <img width="775" height="492" alt="Image" src="https://github.com/user-attachments/assets/6550a1ee-51a1-4102-8e38-ed99c1745079" />
 
 ### Demo Video
+(https://drive.google.com/file/d/1EPX2qaAdugn7E6HbJRpp40qzpAIeujxm/view?usp=sharing)
 
 ---
 
